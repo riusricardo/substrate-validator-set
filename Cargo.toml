@@ -13,22 +13,24 @@ version = '1.0.126'
 [dependencies.sp-core]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 
 [dependencies.sp-io]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 
 [dependencies.sp-runtime]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.sp-std]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.codec]
 default-features = false
@@ -40,22 +42,22 @@ version = '2.0.0'
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
 optional = true
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.frame-support]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.frame-system]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.pallet-session]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
-
+rev = '4bc2af13cd81007a2a340d0333062179420d5daf'
 
 [dependencies.scale-info]
 default-features = false
